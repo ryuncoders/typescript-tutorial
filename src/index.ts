@@ -1,3 +1,3 @@
-import { init } from "test";
+import { exit, init } from "test";
 
-init();
+exit(1);
